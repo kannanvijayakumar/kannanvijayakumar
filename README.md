@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kannan Vijayakumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 - 💬 Ask me about **Under Grad at Govt college of Engg-Bargur,An enthusiastic engineering who is a self-starter and capable to use technical skills for the betterment of the organization**
 
 - 📫 How to reach me **kannanvijayakumar98@gmail.com**
